@@ -1,0 +1,6 @@
+channels:
+  - pytorch
+dependencies:
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio

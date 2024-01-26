@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - scipy
+  - libpng
+  - black
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.10
+  - pip
+  - pip:
+      - timm
+      - tensorboard
