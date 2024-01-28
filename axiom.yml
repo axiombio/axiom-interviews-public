@@ -4,6 +4,7 @@ dependencies:
   - black
   - libpng
   - matplotlib
+  - notebook
   - numpy
   - pandas
   - pip
