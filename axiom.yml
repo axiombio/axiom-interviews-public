@@ -1,14 +1,16 @@
 channels:
   - conda-forge
 dependencies:
-  - scipy
-  - libpng
   - black
+  - libpng
   - matplotlib
   - numpy
   - pandas
-  - python=3.10
   - pip
+  - python=3.10
+  - scikit-learn
+  - scipy
+  - seaborn
   - pip:
-      - timm
       - tensorboard
+      - timm
